@@ -1,0 +1,17 @@
+{
+  "name": "actividad_2_6_cheerio",
+  "version": "1.0.0",
+  "description": "Actividad backend con Express y Cheerio",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jose",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "express": "^4.21.2",
+    "mysql2": "^3.22.3"
+  }
+}
